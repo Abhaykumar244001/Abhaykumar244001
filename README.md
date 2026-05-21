@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <a href="https://in.linkedin.com/in/abhay-kumar-6505a62a5" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <!-- <a href="https://in.linkedin.com/in/abhay-kumar-6505a62a5" target="blank"> -->
+    <!-- <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> -->
   </a>
 </div>
 
@@ -31,21 +31,21 @@ I'm a passionate student diving deep into the world of web development. My journ
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
+  <!-- <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
+  </a> -->
+  <!-- <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
+  </a> -->
 
   <a href="https://radix-ui.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/75042455?s=200&v=4" alt="Radix UI" width="40" height="40"/>
   </a>
 
 
-  <a href="https://ui.shadcn.com/" target="_blank">
+  <!--a href="https://ui.shadcn.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="ShadCN UI" width="40" height="40"/>
-  </a>
+  </a-->
 </p>
 
 <p align="left">
@@ -55,16 +55,16 @@ I'm a passionate student diving deep into the world of web development. My journ
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   </a>
-  <a href="https://graphql.org" target="_blank">
+  <!-- <a href="https://graphql.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
+  </a> -->
+  <!-- <a href="https://www.prisma.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/prisma/presskit/main/Assets/Prisma-LightSymbol.svg" alt="Prisma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
+  </a> -->
+  <!-- <a href="https://firebase.google.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
+  </a> -->
+  <!-- <a href="https://nextjs.org/" target="_blank">
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/nextjs-icon.png" alt="Next.js" width="40" height="40"/>
   </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -74,7 +74,7 @@ I'm a passionate student diving deep into the world of web development. My journ
 <a href="https://mongoosejs.com" target="_blank" rel="noreferrer"> <img width="55" height="75" alt="image" src="https://github.com/user-attachments/assets/58cb393c-f787-46ca-91dd-2ba8c9ecc7c9" />
 
 </a> 
-</p>
+</p> -->
 
 ---
 
